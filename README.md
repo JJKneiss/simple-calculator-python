@@ -6,6 +6,10 @@ A terminal-based calculator written in Python. Enter two numbers and an operator
  
 ```bash
 python app.py
+
+or
+
+python3 app.py
 ```
  
 ## How It Works
